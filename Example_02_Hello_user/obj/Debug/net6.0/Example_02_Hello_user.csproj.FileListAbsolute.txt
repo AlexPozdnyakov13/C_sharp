@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\bin\Debug\net6.0\Example_02_Hello_user.exe
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\bin\Debug\net6.0\Example_02_Hello_user.deps.json
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\bin\Debug\net6.0\Example_02_Hello_user.runtimeconfig.json
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\bin\Debug\net6.0\Example_02_Hello_user.dll
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\bin\Debug\net6.0\Example_02_Hello_user.pdb
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\obj\Debug\net6.0\Example_02_Hello_user.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\obj\Debug\net6.0\Example_02_Hello_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\obj\Debug\net6.0\Example_02_Hello_user.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\obj\Debug\net6.0\Example_02_Hello_user.AssemblyInfo.cs
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\obj\Debug\net6.0\Example_02_Hello_user.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\obj\Debug\net6.0\Example_02_Hello_user.dll
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\obj\Debug\net6.0\refint\Example_02_Hello_user.dll
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\obj\Debug\net6.0\Example_02_Hello_user.pdb
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\obj\Debug\net6.0\Example_02_Hello_user.genruntimeconfig.cache
+C:\Users\Acer\Desktop\IT\15.12 C#\C#\C_sharp\Example_02_Hello_user\obj\Debug\net6.0\ref\Example_02_Hello_user.dll
