@@ -56,11 +56,7 @@ else
  {
     Console.WriteLine("нет четных чисел");   
  };
- if (n==2)
- {
-    Console.WriteLine("2");   
- };
- if (n>2)
+ if (n>=2)
  {
     while (o<n+1)
     {
